@@ -17,10 +17,10 @@
 ## History
 
 - [https://github.com/aramisgithub/base16-solarized-scheme] (Origin)
-  - [https://github.com/arzg/base16-solarized-scheme] (Author Fenamed)
-    - https://github.com/chawyehsu/base16-solarized-scheme (Fork, this repository)
+  - https://github.com/chawyehsu/base16-solarized-scheme (Fork, this repository)
+  - [tinted-theming/base16/solarized-dark] (Vendored Fork)
+  - [https://github.com/arzg/base16-solarized-scheme] (Origin, author name changed)
     - https://github.com/mk12/base16-solarized-scheme (Fork)
-    - [tinted-theming/base16/solarized-dark] (Vendored Fork)
 
 ## License
 
