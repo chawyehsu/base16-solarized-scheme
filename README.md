@@ -17,14 +17,17 @@
 ## History
 
 - [https://github.com/aramisgithub/base16-solarized-scheme] (Origin)
-  - [https://github.com/arzg/base16-solarized-scheme] (Author Renamed)
-    - https://github.com/chawyehsu/base16-solarized-scheme (Fork)
+  - [https://github.com/arzg/base16-solarized-scheme] (Author Fenamed)
+    - https://github.com/chawyehsu/base16-solarized-scheme (Fork, this repository)
     - https://github.com/mk12/base16-solarized-scheme (Fork)
     - [tinted-theming/base16/solarized-dark] (Vendored Fork)
 
 ## License
 
 **base16-solarized-scheme** released under the [MIT](LICENSE) license, respect to the original [solarized] color scheme.
+
+> [Blog](https://chawyehsu.com) · GitHub [@chawyehsu](https://github.com/chawyehsu) · Twitter [@chawyehsu](https://twitter.com/chawyehsu)
+
 
 [solarized]: https://ethanschoonover.com/solarized/
 [base16]: https://github.com/chriskempson/base16
