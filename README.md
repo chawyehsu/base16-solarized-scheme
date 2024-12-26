@@ -19,7 +19,7 @@
 - [https://github.com/aramisgithub/base16-solarized-scheme] (Origin)
   - https://github.com/chawyehsu/base16-solarized-scheme (Fork, this repository)
   - [tinted-theming/base16/solarized-dark] (Vendored Fork)
-  - [https://github.com/arzg/base16-solarized-scheme] (Origin, author name changed)
+  - [https://github.com/arzg/base16-solarized-scheme] (Origin, author name changed[^2])
     - https://github.com/mk12/base16-solarized-scheme (Fork)
 
 ## License
@@ -37,3 +37,4 @@
 [tinted-theming/base16/solarized-dark]: https://github.com/tinted-theming/schemes/blob/spec-0.11/base16/solarized-dark.yaml
 
 [^1]: Also for https://github.com/tinted-theming
+[^2]: https://web.archive.org/web/20220626164408/https://github.com/aramisgithub/base16-solarized-scheme
